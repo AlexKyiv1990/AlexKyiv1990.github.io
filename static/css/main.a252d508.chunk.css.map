@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SACF,CAEA,SACE,YAAa,CACb,YAAa,CACb,kBAAmB,CACnB,iBAAkB,CAClB,QACF","file":"main.a252d508.chunk.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n\n.wrapper {\n  display: flex;\n  height: 100vh;\n  align-items: center;\n  background: bisque;\n  margin: 0;\n}\n"]}
